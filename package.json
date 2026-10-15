@@ -1,0 +1,51 @@
+{
+  "name": "softdealz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SoftDealz — a full-stack, fully responsive online marketplace: storefront, customer accounts and admin dashboard.",
+  "scripts": {
+    "dev": "npm run db:migrate && next dev -H 0.0.0.0 -p 3000",
+    "dev:turbo": "npm run db:migrate && next dev --turbopack -H 0.0.0.0 -p 3000",
+    "build": "npm run db:migrate && next build",
+    "start": "npm run db:migrate && next start -H 0.0.0.0",
+    "db:migrate": "tsx db/migrate.ts",
+    "db:seed": "tsx db/seed.ts",
+    "db:seed:force": "tsx db/seed.ts --force",
+    "db:setup": "npm run db:migrate && npm run db:seed",
+    "db:create-admin": "tsx scripts/create-admin.ts",
+    "db:reset": "tsx scripts/reset-database.ts && npm run db:migrate && npm run db:seed:force",
+    "assets": "node scripts/generate-assets.mjs",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "verify": "npm run typecheck && npm run lint && npm run build",
+    "smoke": "node scripts/smoke-test.mjs",
+    "test:orders": "tsx scripts/order-flow-test.ts"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
+    "jose": "^6.2.12",
+    "lucide-react": "^1.57.0",
+    "next": "^16.4.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sanitize-html": "^2.18.1",
+    "tailwind-merge": "^3.7.0",
+    "tsx": "^4.23.15",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/sanitize-html": "^2.16.2",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

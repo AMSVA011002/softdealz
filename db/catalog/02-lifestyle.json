@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {
+      "name": "Fashion",
+      "slug": "fashion",
+      "icon": "shirt",
+      "featured": true,
+      "tagline": "Everyday essentials and occasion wear",
+      "children": [
+        {
+          "name": "Men's Clothing",
+          "slug": "mens-clothing",
+          "icon": "shirt",
+          "products": [
+            { "t": "UrbanThread Classic Oxford Shirt Slim Fit", "p": 6850, "w": 8900, "b": "urbanthread", "i": "shirt", "s": 84, "r": 4.5, "f": 1 },
+            { "t": "UrbanThread Pima Cotton Crew T-Shirt", "p": 3450, "w": 4500, "b": "urbanthread", "i": "shirt", "s": 210, "r": 4.6, "f": 1 },
+            { "t": "DenimWorks Slim Fit Stretch Jeans", "p": 11900, "w": 14500, "b": "denimworks", "i": "trousers", "s": 96, "r": 4.4, "f": 0 },
+            { "t": "SilkRoute Linen Formal Trousers", "p": 9450, "w": null, "b": "silkroute", "i": "trousers", "s": 63, "r": 4.3, "f": 0 },
+            { "t": "UrbanThread Bomber Jacket Water Resistant", "p": 18500, "w": 22900, "b": "urbanthread", "i": "jacket", "s": 38, "r": 4.7, "f": 0 },
+            { "t": "Kandy Loom Batik Print Casual Shirt", "p": 5900, "w": 7200, "b": "kandy-loom", "i": "shirt", "s": 74, "r": 4.8, "f": 1 },
+            { "t": "SilkRoute Merino Wool Sweater", "p": 15900, "w": null, "b": "silkroute", "i": "shirt", "s": 41, "r": 4.5, "f": 0 },
+            { "t": "DenimWorks Cargo Shorts Cotton Twill", "p": 4900, "w": 6200, "b": "denimworks", "i": "trousers", "s": 118, "r": 4.2, "f": 0 }
+          ]
+        },
+        {
+          "name": "Women's Clothing",
+          "slug": "womens-clothing",
+          "icon": "dress",
+          "products": [
+            { "t": "Kandy Loom Handloom Cotton Saree", "p": 24500, "w": 29900, "b": "kandy-loom", "i": "dress", "s": 32, "r": 4.9, "f": 1 },
+            { "t": "SilkRoute Pure Silk Evening Dress", "p": 42500, "w": 49500, "b": "silkroute", "i": "dress", "s": 14, "r": 4.8, "f": 1 },
+            { "t": "UrbanThread Floral Midi Summer Dress", "p": 8900, "w": 11500, "b": "urbanthread", "i": "dress", "s": 88, "r": 4.5, "f": 0 },
+            { "t": "LinenCo Oversized Linen Blouse", "p": 6450, "w": 7900, "b": "linenco", "i": "shirt", "s": 102, "r": 4.4, "f": 0 },
+            { "t": "LinenCo Wide Leg Palazzo Pants", "p": 7200, "w": null, "b": "linenco", "i": "trousers", "s": 76, "r": 4.3, "f": 0 },
+            { "t": "SilkRoute Cashmere Blend Cardigan", "p": 18900, "w": 22500, "b": "silkroute", "i": "jacket", "s": 35, "r": 4.6, "f": 0 },
+            { "t": "UrbanThread Denim Jacket Cropped", "p": 12500, "w": null, "b": "urbanthread", "i": "jacket", "s": 54, "r": 4.5, "f": 0 },
+            { "t": "Kandy Loom Cotton Salwar Kurta Set", "p": 13500, "w": 15900, "b": "kandy-loom", "i": "dress", "s": 47, "r": 4.7, "f": 0 }
+          ]
+        },
+        {
+          "name": "Bags & Accessories",
+          "slug": "bags-accessories",
+          "icon": "bag",
+          "products": [
+            { "t": "SilkRoute Leather Laptop Briefcase", "p": 32500, "w": 38900, "b": "silkroute", "i": "bag", "s": 26, "r": 4.7, "f": 1 },
+            { "t": "UrbanThread Canvas Everyday Backpack", "p": 8900, "w": 11500, "b": "urbanthread", "i": "bag", "s": 94, "r": 4.5, "f": 0 },
+            { "t": "SilkRoute RFID Leather Wallet", "p": 5900, "w": 7200, "b": "silkroute", "i": "wallet", "s": 132, "r": 4.6, "f": 0 },
+            { "t": "LinenCo Reversible Tote Shopper", "p": 4500, "w": null, "b": "linenco", "i": "bag", "s": 108, "r": 4.2, "f": 0 },
+            { "t": "SilkRoute Crossbody Sling Bag", "p": 7900, "w": 9500, "b": "silkroute", "i": "bag", "s": 71, "r": 4.4, "f": 0 },
+            { "t": "UrbanThread Woven Leather Belt", "p": 3900, "w": null, "b": "urbanthread", "i": "wallet", "s": 145, "r": 4.3, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Footwear",
+      "slug": "footwear",
+      "icon": "shoe",
+      "featured": true,
+      "tagline": "Sneakers, formals, sandals, trail",
+      "children": [
+        {
+          "name": "Sneakers & Sports",
+          "slug": "sneakers-sports",
+          "icon": "shoe",
+          "products": [
+            { "t": "StrideX Cloud Runner Running Shoes", "p": 18900, "w": 24500, "b": "stridex", "i": "shoe", "s": 68, "r": 4.7, "f": 1 },
+            { "t": "StrideX Air Court Basketball Shoes", "p": 24500, "w": 28900, "b": "stridex", "i": "shoe", "s": 42, "r": 4.5, "f": 0 },
+            { "t": "SoleMate Everyday Canvas Sneakers", "p": 6900, "w": 8900, "b": "solemate", "i": "shoe", "s": 156, "r": 4.4, "f": 1 },
+            { "t": "StrideX Trail Grip Hiking Shoes", "p": 27500, "w": null, "b": "stridex", "i": "shoe", "s": 31, "r": 4.8, "f": 0 },
+            { "t": "SoleMate Slip-On Walking Shoes", "p": 8500, "w": 10500, "b": "solemate", "i": "shoe", "s": 97, "r": 4.3, "f": 0 },
+            { "t": "StrideX Performance Football Boots", "p": 21900, "w": 26500, "b": "stridex", "i": "shoe", "s": 38, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Formal & Sandals",
+          "slug": "formal-sandals",
+          "icon": "shoe",
+          "products": [
+            { "t": "SilkRoute Handmade Leather Oxfords", "p": 28500, "w": 33900, "b": "silkroute", "i": "shoe", "s": 24, "r": 4.7, "f": 1 },
+            { "t": "SilkRoute Formal Derby Shoes Brown", "p": 24500, "w": null, "b": "silkroute", "i": "shoe", "s": 29, "r": 4.5, "f": 0 },
+            { "t": "SoleMate Comfort Cushion Sandals", "p": 4900, "w": 5900, "b": "solemate", "i": "shoe", "s": 186, "r": 4.2, "f": 0 },
+            { "t": "SoleMate Leather Chappal Handmade", "p": 5900, "w": null, "b": "solemate", "i": "shoe", "s": 143, "r": 4.4, "f": 0 },
+            { "t": "StrideX Anti-Slip Work Shoes Steel Toe", "p": 15900, "w": 18900, "b": "stridex", "i": "shoe", "s": 52, "r": 4.6, "f": 0 },
+            { "t": "SoleMate Monsoon Waterproof Boots", "p": 18900, "w": 22500, "b": "solemate", "i": "shoe", "s": 34, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "slug": "beauty-personal-care",
+      "icon": "cosmetics",
+      "featured": true,
+      "tagline": "Skin, hair, fragrance",
+      "children": [
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "icon": "cosmetics",
+          "products": [
+            { "t": "GlowLux Vitamin C Brightening Serum 30ml", "p": 6900, "w": 8900, "b": "glowlux", "i": "cosmetics", "s": 128, "r": 4.8, "f": 1 },
+            { "t": "GlowLux Hyaluronic Daily Moisturiser 50ml", "p": 4500, "w": 5600, "b": "glowlux", "i": "cosmetics", "s": 164, "r": 4.6, "f": 1 },
+            { "t": "Herbal Ceylon Neem & Turmeric Face Wash", "p": 1950, "w": 2450, "b": "herbal-ceylon", "i": "cosmetics", "s": 312, "r": 4.7, "f": 0 },
+            { "t": "GlowLux SPF50 PA++++ Sunscreen Gel", "p": 3900, "w": null, "b": "glowlux", "i": "cosmetics", "s": 198, "r": 4.5, "f": 0 },
+            { "t": "Herbal Ceylon Aloe Soothing Gel 200ml", "p": 1650, "w": 2100, "b": "herbal-ceylon", "i": "cosmetics", "s": 268, "r": 4.4, "f": 0 },
+            { "t": "GlowLux Retinol Night Repair Cream", "p": 8900, "w": 10900, "b": "glowlux", "i": "cosmetics", "s": 74, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "icon": "bottle",
+          "products": [
+            { "t": "Herbal Ceylon Coconut Oil Cold Pressed 500ml", "p": 1450, "w": 1800, "b": "herbal-ceylon", "i": "bottle", "s": 420, "r": 4.8, "f": 1 },
+            { "t": "PureDrop Anti-Dandruff Shampoo 400ml", "p": 2450, "w": 2950, "b": "puredrop", "i": "bottle", "s": 186, "r": 4.4, "f": 0 },
+            { "t": "PureDrop Argan Repair Conditioner 300ml", "p": 2650, "w": null, "b": "puredrop", "i": "bottle", "s": 152, "r": 4.5, "f": 0 },
+            { "t": "GlowLux Scalp Serum with Caffeine", "p": 5900, "w": 6900, "b": "glowlux", "i": "bottle", "s": 88, "r": 4.3, "f": 0 },
+            { "t": "Herbal Ceylon Herbal Hair Mask 250g", "p": 2250, "w": 2750, "b": "herbal-ceylon", "i": "bottle", "s": 134, "r": 4.6, "f": 0 },
+            { "t": "PureDrop Hair Dryer 2200W Ionic", "p": 12500, "w": 14900, "b": "puredrop", "i": "plug", "s": 46, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Fragrance & Grooming",
+          "slug": "fragrance-grooming",
+          "icon": "perfume",
+          "products": [
+            { "t": "SilkRoute Oud Eau de Parfum 100ml", "p": 18900, "w": 22900, "b": "silkroute", "i": "perfume", "s": 42, "r": 4.7, "f": 1 },
+            { "t": "SilkRoute Jasmine Body Mist 200ml", "p": 3900, "w": 4800, "b": "silkroute", "i": "perfume", "s": 118, "r": 4.4, "f": 0 },
+            { "t": "GlowLux Beard Grooming Kit 6 Piece", "p": 6900, "w": 8500, "b": "glowlux", "i": "scissors", "s": 64, "r": 4.6, "f": 0 },
+            { "t": "PureDrop Cordless Beard Trimmer", "p": 8900, "w": 10900, "b": "puredrop", "i": "scissors", "s": 82, "r": 4.5, "f": 0 },
+            { "t": "GlowLux Rechargeable Hair Clipper Pro", "p": 11500, "w": 13500, "b": "glowlux", "i": "scissors", "s": 57, "r": 4.4, "f": 0 },
+            { "t": "SilkRoute Gift Set Trial Fragrance 5x10ml", "p": 7900, "w": null, "b": "silkroute", "i": "perfume", "s": 73, "r": 4.8, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jewellery & Watches",
+      "slug": "jewellery-watches",
+      "icon": "ring",
+      "featured": false,
+      "tagline": "Fine pieces, daily wear, gifts",
+      "children": [
+        {
+          "name": "Watches",
+          "slug": "watches",
+          "icon": "watchband",
+          "products": [
+            { "t": "Zentry Chrono Steel Automatic Watch", "p": 89500, "w": 105000, "b": "zentry", "i": "watchband", "s": 18, "r": 4.8, "f": 1 },
+            { "t": "Zentry Smartwatch Fit AMOLED GPS", "p": 34500, "w": 42000, "b": "zentry", "i": "watchband", "s": 64, "r": 4.6, "f": 1 },
+            { "t": "Voltix Sport Band Fitness Tracker", "p": 12500, "w": 15900, "b": "voltix", "i": "watchband", "s": 142, "r": 4.4, "f": 0 },
+            { "t": "Zentry Diver 200m Stainless Watch", "p": 64900, "w": null, "b": "zentry", "i": "watchband", "s": 12, "r": 4.7, "f": 0 },
+            { "t": "SilkRoute Minimalist Leather Watch", "p": 18500, "w": 22500, "b": "silkroute", "i": "watchband", "s": 47, "r": 4.5, "f": 0 },
+            { "t": "Zentry Kids First Watch Silicone", "p": 5900, "w": 6900, "b": "zentry", "i": "watchband", "s": 96, "r": 4.3, "f": 0 }
+          ]
+        },
+        {
+          "name": "Jewellery",
+          "slug": "jewellery",
+          "icon": "ring",
+          "products": [
+            { "t": "Ceylon Gems 22K Gold Plated Necklace", "p": 42500, "w": 49900, "b": "ceylon-gems", "i": "ring", "s": 21, "r": 4.7, "f": 1 },
+            { "t": "Ceylon Gems Blue Sapphire Pendant", "p": 115000, "w": 129000, "b": "ceylon-gems", "i": "ring", "s": 6, "r": 4.9, "f": 1 },
+            { "t": "Ceylon Gems Silver Moonstone Earrings", "p": 12900, "w": 15900, "b": "ceylon-gems", "i": "ring", "s": 54, "r": 4.6, "f": 0 },
+            { "t": "SilkRoute Pearl Drop Bridal Set", "p": 68500, "w": null, "b": "silkroute", "i": "ring", "s": 11, "r": 4.8, "f": 0 },
+            { "t": "Ceylon Gems Amethyst Statement Ring", "p": 15900, "w": 18900, "b": "ceylon-gems", "i": "ring", "s": 43, "r": 4.5, "f": 0 },
+            { "t": "Ceylon Gems Sterling Silver Anklet", "p": 8900, "w": 10500, "b": "ceylon-gems", "i": "ring", "s": 78, "r": 4.4, "f": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

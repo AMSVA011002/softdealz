@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "icon": "pan",
+      "featured": true,
+      "tagline": "Everything for a well-run home",
+      "children": [
+        {
+          "name": "Cookware",
+          "slug": "cookware",
+          "icon": "pan",
+          "products": [
+            { "t": "Lanka Kitchen Non-Stick Frying Pan 28cm", "p": 6900, "w": 8900, "b": "lanka-kitchen", "i": "pan", "s": 164, "r": 4.6, "f": 1 },
+            { "t": "Lanka Kitchen Granite Cookware Set 7 Piece", "p": 28900, "w": 35900, "b": "lanka-kitchen", "i": "pan", "s": 38, "r": 4.7, "f": 1 },
+            { "t": "Lanka Kitchen Stainless Steel Wok 34cm", "p": 11500, "w": 13900, "b": "lanka-kitchen", "i": "pan", "s": 72, "r": 4.5, "f": 0 },
+            { "t": "HomeCraft Cast Iron Dutch Oven 5L", "p": 24500, "w": 29900, "b": "homecraft", "i": "pot", "s": 29, "r": 4.8, "f": 0 },
+            { "t": "Lanka Kitchen Clay Curry Pot Traditional", "p": 3450, "w": 4200, "b": "lanka-kitchen", "i": "pot", "s": 186, "r": 4.9, "f": 1 },
+            { "t": "Lanka Kitchen Knife Block Set 9 Piece", "p": 15900, "w": null, "b": "lanka-kitchen", "i": "scissors", "s": 41, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Small Appliances",
+          "slug": "small-appliances",
+          "icon": "blender",
+          "products": [
+            { "t": "Lanka Kitchen Blender 1200W Glass Jug", "p": 18500, "w": 22500, "b": "lanka-kitchen", "i": "blender", "s": 58, "r": 4.5, "f": 1 },
+            { "t": "Lanka Kitchen Rice Cooker 1.8L Non-Stick", "p": 12900, "w": 15900, "b": "lanka-kitchen", "i": "pot", "s": 96, "r": 4.6, "f": 1 },
+            { "t": "Lanka Kitchen Electric Kettle 1.7L", "p": 6900, "w": 8500, "b": "lanka-kitchen", "i": "kettle", "s": 148, "r": 4.4, "f": 0 },
+            { "t": "Lanka Kitchen Air Fryer 5.5L Digital", "p": 32500, "w": 39900, "b": "lanka-kitchen", "i": "pan", "s": 44, "r": 4.7, "f": 0 },
+            { "t": "Lanka Kitchen Sandwich Maker Grill", "p": 8900, "w": 10900, "b": "lanka-kitchen", "i": "pan", "s": 87, "r": 4.3, "f": 0 },
+            { "t": "Lanka Kitchen Coffee Maker Drip 1.2L", "p": 16500, "w": null, "b": "lanka-kitchen", "i": "cup", "s": 52, "r": 4.5, "f": 0 },
+            { "t": "Lanka Kitchen Stand Mixer 1000W 5L", "p": 48900, "w": 56900, "b": "lanka-kitchen", "i": "blender", "s": 21, "r": 4.6, "f": 0 },
+            { "t": "Lanka Kitchen Microwave Oven 25L Grill", "p": 42500, "w": 49900, "b": "lanka-kitchen", "i": "pan", "s": 26, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Home Essentials",
+          "slug": "home-essentials",
+          "icon": "basket",
+          "products": [
+            { "t": "CozyNest Cotton Bedsheet Set King 4 Piece", "p": 8900, "w": 11500, "b": "cozynest", "i": "bed", "s": 132, "r": 4.6, "f": 1 },
+            { "t": "CozyNest Microfibre Pillow Pack of 2", "p": 5900, "w": 7200, "b": "cozynest", "i": "bed", "s": 174, "r": 4.5, "f": 0 },
+            { "t": "CozyNest Blackout Curtains 2 Panel", "p": 12900, "w": 15900, "b": "cozynest", "i": "bed", "s": 88, "r": 4.4, "f": 0 },
+            { "t": "HomeCraft Bamboo Storage Organiser 4 Tier", "p": 7450, "w": 8900, "b": "homecraft", "i": "basket", "s": 96, "r": 4.3, "f": 0 },
+            { "t": "HomeCraft Ceramic Dinner Set 24 Piece", "p": 21900, "w": 26500, "b": "homecraft", "i": "cup", "s": 43, "r": 4.7, "f": 0 },
+            { "t": "CozyNest Microfibre Bath Towel Set 4", "p": 6900, "w": null, "b": "cozynest", "i": "bed", "s": 118, "r": 4.5, "f": 0 },
+            { "t": "HomeCraft Glass Food Storage Set 10 Piece", "p": 9900, "w": 12500, "b": "homecraft", "i": "basket", "s": 74, "r": 4.4, "f": 0 },
+            { "t": "HomeCraft Indoor Plant Pot with Stand", "p": 4500, "w": null, "b": "homecraft", "i": "plant", "s": 156, "r": 4.2, "f": 0 }
+          ]
+        },
+        {
+          "name": "Cleaning & Laundry",
+          "slug": "cleaning-laundry",
+          "icon": "basket",
+          "products": [
+            { "t": "HomeCraft Cordless Vacuum Cleaner 25kPa", "p": 42500, "w": 52000, "b": "homecraft", "i": "bulb", "s": 34, "r": 4.6, "f": 1 },
+            { "t": "HomeCraft Steam Mop Multi-Surface", "p": 24500, "w": 29500, "b": "homecraft", "i": "bulb", "s": 41, "r": 4.4, "f": 0 },
+            { "t": "HomeCraft Spin Dry Mop Bucket Set", "p": 7900, "w": 9500, "b": "homecraft", "i": "basket", "s": 128, "r": 4.3, "f": 0 },
+            { "t": "HomeCraft Front Load Washing Machine 8kg", "p": 132000, "w": 149000, "b": "homecraft", "i": "bulb", "s": 12, "r": 4.5, "f": 0 },
+            { "t": "HomeCraft Laundry Basket Foldable 60L", "p": 3900, "w": null, "b": "homecraft", "i": "basket", "s": 186, "r": 4.2, "f": 0 },
+            { "t": "HomeCraft Iron 2400W Ceramic Soleplate", "p": 9900, "w": 11900, "b": "homecraft", "i": "plug", "s": 84, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Furniture",
+      "slug": "furniture",
+      "icon": "sofa",
+      "featured": false,
+      "tagline": "Teak, fabric and storage",
+      "children": [
+        {
+          "name": "Living Room",
+          "slug": "living-room",
+          "icon": "sofa",
+          "products": [
+            { "t": "TeakHouse 3 Seater Fabric Sofa Grey", "p": 189000, "w": 219000, "b": "teakhouse", "i": "sofa", "s": 9, "r": 4.7, "f": 1 },
+            { "t": "TeakHouse L-Shape Corner Sofa Set", "p": 285000, "w": null, "b": "teakhouse", "i": "sofa", "s": 5, "r": 4.8, "f": 0 },
+            { "t": "TeakHouse Solid Teak Coffee Table", "p": 68900, "w": 79900, "b": "teakhouse", "i": "sofa", "s": 14, "r": 4.6, "f": 0 },
+            { "t": "CozyNest TV Console 150cm Walnut", "p": 74500, "w": 89500, "b": "cozynest", "i": "tv", "s": 11, "r": 4.5, "f": 0 },
+            { "t": "CozyNest Accent Armchair Velvet", "p": 58900, "w": 69900, "b": "cozynest", "i": "chair", "s": 16, "r": 4.4, "f": 0 },
+            { "t": "TeakHouse Bookshelf 5 Tier Rattan", "p": 42500, "w": null, "b": "teakhouse", "i": "book", "s": 22, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Bedroom & Office",
+          "slug": "bedroom-office",
+          "icon": "bed",
+          "products": [
+            { "t": "TeakHouse Queen Bed Frame with Headboard", "p": 165000, "w": 189000, "b": "teakhouse", "i": "bed", "s": 8, "r": 4.7, "f": 1 },
+            { "t": "CozyNest Pocket Spring Mattress Queen", "p": 118500, "w": 139000, "b": "cozynest", "i": "bed", "s": 13, "r": 4.8, "f": 0 },
+            { "t": "TeakHouse 3 Door Wardrobe Mirror", "p": 145000, "w": null, "b": "teakhouse", "i": "bed", "s": 6, "r": 4.5, "f": 0 },
+            { "t": "CozyNest Ergonomic Office Chair Mesh", "p": 42500, "w": 52900, "b": "cozynest", "i": "chair", "s": 34, "r": 4.6, "f": 1 },
+            { "t": "CozyNest Height Adjustable Standing Desk", "p": 89500, "w": 105000, "b": "cozynest", "i": "sofa", "s": 18, "r": 4.7, "f": 0 },
+            { "t": "CozyNest Bedside Table Set of 2", "p": 24500, "w": 28900, "b": "cozynest", "i": "bed", "s": 27, "r": 4.4, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tools & Hardware",
+      "slug": "tools-hardware",
+      "icon": "wrench",
+      "featured": false,
+      "tagline": "For the makers and fixers",
+      "children": [
+        {
+          "name": "Power Tools",
+          "slug": "power-tools",
+          "icon": "drill",
+          "products": [
+            { "t": "IronGrip Cordless Drill 20V with 2 Batteries", "p": 24500, "w": 29900, "b": "irongrip", "i": "drill", "s": 47, "r": 4.7, "f": 1 },
+            { "t": "IronGrip Angle Grinder 900W 115mm", "p": 15900, "w": 18500, "b": "irongrip", "i": "drill", "s": 63, "r": 4.5, "f": 0 },
+            { "t": "IronGrip Jigsaw 750W Variable Speed", "p": 18500, "w": null, "b": "irongrip", "i": "drill", "s": 31, "r": 4.4, "f": 0 },
+            { "t": "IronGrip Rotary Hammer SDS-Plus 1050W", "p": 38900, "w": 44900, "b": "irongrip", "i": "drill", "s": 18, "r": 4.6, "f": 0 },
+            { "t": "IronGrip Random Orbital Sander 350W", "p": 14500, "w": 16900, "b": "irongrip", "i": "drill", "s": 42, "r": 4.3, "f": 0 },
+            { "t": "IronGrip Electric Screwdriver 8V Rechargeable", "p": 8900, "w": 10500, "b": "irongrip", "i": "drill", "s": 88, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Hand Tools & Safety",
+          "slug": "hand-tools-safety",
+          "icon": "wrench",
+          "products": [
+            { "t": "IronGrip 108 Piece Tool Kit Chrome Vanadium", "p": 18500, "w": 22900, "b": "irongrip", "i": "wrench", "s": 56, "r": 4.6, "f": 1 },
+            { "t": "IronGrip Adjustable Wrench Set 3 Piece", "p": 5900, "w": 7200, "b": "irongrip", "i": "wrench", "s": 128, "r": 4.5, "f": 0 },
+            { "t": "IronGrip Fibreglass Step Ladder 6 Step", "p": 24500, "w": 28900, "b": "irongrip", "i": "wrench", "s": 21, "r": 4.4, "f": 0 },
+            { "t": "IronGrip Safety Helmet with Visor", "p": 3900, "w": 4800, "b": "irongrip", "i": "helmet", "s": 164, "r": 4.3, "f": 0 },
+            { "t": "IronGrip Nitrile Gloves 12 Pair Box", "p": 2900, "w": null, "b": "irongrip", "i": "wrench", "s": 218, "r": 4.6, "f": 0 },
+            { "t": "IronGrip 100m Measuring Tape Fibreglass", "p": 4500, "w": 5500, "b": "irongrip", "i": "wrench", "s": 97, "r": 4.4, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automotive",
+      "slug": "automotive",
+      "icon": "car",
+      "featured": false,
+      "tagline": "Care, repair and travel gear",
+      "children": [
+        {
+          "name": "Car Care & Accessories",
+          "slug": "car-care-accessories",
+          "icon": "car",
+          "products": [
+            { "t": "AutoZen Ceramic Coating Kit 9H", "p": 12900, "w": 15900, "b": "autozen", "i": "car", "s": 74, "r": 4.6, "f": 1 },
+            { "t": "AutoZen Cordless Car Vacuum 8000Pa", "p": 11500, "w": 13900, "b": "autozen", "i": "car", "s": 96, "r": 4.5, "f": 1 },
+            { "t": "AutoZen Tyre Inflator Digital 150PSI", "p": 9900, "w": 12500, "b": "autozen", "i": "wheel", "s": 82, "r": 4.7, "f": 0 },
+            { "t": "AutoZen Car Dash Camera 2K Dual", "p": 24500, "w": 29900, "b": "autozen", "i": "camera", "s": 43, "r": 4.6, "f": 0 },
+            { "t": "AutoZen Jump Starter Power Bank 12000mAh", "p": 18500, "w": 22500, "b": "autozen", "i": "plug", "s": 38, "r": 4.7, "f": 0 },
+            { "t": "AutoZen Microfibre Detailing Towel 5 Pack", "p": 2450, "w": 3200, "b": "autozen", "i": "car", "s": 246, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Motorcycle & Tyres",
+          "slug": "motorcycle-tyres",
+          "icon": "wheel",
+          "products": [
+            { "t": "RoadKing Motorcycle Helmet Full Face", "p": 18500, "w": 22900, "b": "roadking", "i": "helmet", "s": 52, "r": 4.7, "f": 1 },
+            { "t": "RoadKing Motorcycle Cover Waterproof", "p": 5900, "w": 7200, "b": "roadking", "i": "car", "s": 118, "r": 4.4, "f": 0 },
+            { "t": "RoadKing Bike Chain Lube & Cleaner Kit", "p": 3450, "w": null, "b": "roadking", "i": "bike", "s": 164, "r": 4.5, "f": 0 },
+            { "t": "AutoZen Tyre 185/65 R15 Touring", "p": 24500, "w": 28900, "b": "autozen", "i": "wheel", "s": 36, "r": 4.6, "f": 0 },
+            { "t": "AutoZen Tyre Pressure Gauge Digital", "p": 3200, "w": 3900, "b": "autozen", "i": "wheel", "s": 148, "r": 4.3, "f": 0 },
+            { "t": "RoadKing Roof Rack Cross Bars Universal", "p": 32500, "w": null, "b": "roadking", "i": "car", "s": 14, "r": 4.4, "f": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

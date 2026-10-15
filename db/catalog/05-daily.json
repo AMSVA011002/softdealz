@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "name": "Grocery",
+      "slug": "grocery",
+      "icon": "carrot",
+      "featured": true,
+      "tagline": "Fresh, pantry and beverages",
+      "children": [
+        {
+          "name": "Fresh Produce",
+          "slug": "fresh-produce",
+          "icon": "apple",
+          "products": [
+            { "t": "Ceylon Harvest Red Rice 5kg Premium", "p": 3250, "w": 3900, "b": "ceylon-harvest", "i": "grain", "s": 286, "r": 4.8, "f": 1 },
+            { "t": "Ceylon Harvest Fresh Vegetables Basket 5kg", "p": 2450, "w": 2950, "b": "ceylon-harvest", "i": "carrot", "s": 142, "r": 4.5, "f": 1 },
+            { "t": "Ceylon Harvest Tropical Fruit Box 5kg", "p": 3900, "w": 4600, "b": "ceylon-harvest", "i": "apple", "s": 118, "r": 4.6, "f": 0 },
+            { "t": "DailyFresh Farm Eggs 30 Pack Free Range", "p": 1850, "w": 2200, "b": "dailyfresh", "i": "cheese", "s": 324, "r": 4.7, "f": 0 },
+            { "t": "DailyFresh Fresh Milk 1L Pack of 6", "p": 2340, "w": null, "b": "dailyfresh", "i": "bottle", "s": 268, "r": 4.4, "f": 0 },
+            { "t": "Ceylon Harvest King Coconut Pack of 6", "p": 1650, "w": 1990, "b": "ceylon-harvest", "i": "apple", "s": 196, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Pantry Staples",
+          "slug": "pantry-staples",
+          "icon": "grain",
+          "products": [
+            { "t": "Ceylon Harvest Ceylon Tea Premium 400g", "p": 1950, "w": 2450, "b": "ceylon-harvest", "i": "cup", "s": 412, "r": 4.9, "f": 1 },
+            { "t": "Ceylon Harvest Coconut Milk Powder 1kg", "p": 2250, "w": 2750, "b": "ceylon-harvest", "i": "sachet", "s": 286, "r": 4.6, "f": 0 },
+            { "t": "Ceylon Harvest Ceylon Cinnamon Sticks 250g", "p": 1850, "w": 2200, "b": "ceylon-harvest", "i": "grain", "s": 324, "r": 4.8, "f": 1 },
+            { "t": "DailyFresh Red Lentils 1kg Dhal", "p": 950, "w": 1150, "b": "dailyfresh", "i": "grain", "s": 486, "r": 4.5, "f": 0 },
+            { "t": "DailyFresh Wheat Flour 1kg Pack of 3", "p": 1350, "w": null, "b": "dailyfresh", "i": "grain", "s": 372, "r": 4.3, "f": 0 },
+            { "t": "Ceylon Harvest Turmeric Powder 200g Pure", "p": 850, "w": 1050, "b": "ceylon-harvest", "i": "grain", "s": 428, "r": 4.7, "f": 0 }
+          ]
+        },
+        {
+          "name": "Beverages & Snacks",
+          "slug": "beverages-snacks",
+          "icon": "cup",
+          "products": [
+            { "t": "DailyFresh Roasted Cashews 500g", "p": 3450, "w": 4200, "b": "dailyfresh", "i": "sachet", "s": 186, "r": 4.7, "f": 1 },
+            { "t": "DailyFresh Dark Chocolate 70% 200g", "p": 1250, "w": 1550, "b": "dailyfresh", "i": "sachet", "s": 264, "r": 4.6, "f": 0 },
+            { "t": "Ceylon Harvest Instant Coffee 200g Jar", "p": 2950, "w": 3450, "b": "ceylon-harvest", "i": "cup", "s": 198, "r": 4.5, "f": 0 },
+            { "t": "DailyFresh Mixed Nut Trail Pack 400g", "p": 2450, "w": null, "b": "dailyfresh", "i": "sachet", "s": 236, "r": 4.5, "f": 0 },
+            { "t": "GreenLeaf Herbal Green Tea 100 Bags", "p": 1850, "w": 2200, "b": "greenleaf", "i": "cup", "s": 312, "r": 4.6, "f": 0 },
+            { "t": "DailyFresh Fruit Juice Assorted 1L Pack of 6", "p": 3900, "w": 4500, "b": "dailyfresh", "i": "bottle", "s": 148, "r": 4.3, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books & Stationery",
+      "slug": "books-stationery",
+      "icon": "book",
+      "featured": false,
+      "tagline": "Read, write, create",
+      "children": [
+        {
+          "name": "Books",
+          "slug": "books",
+          "icon": "book",
+          "products": [
+            { "t": "ReadWell Sinhala Literature Classics Box Set", "p": 8900, "w": 10900, "b": "readwell", "i": "book", "s": 74, "r": 4.8, "f": 1 },
+            { "t": "ReadWell Children's Story Book Bundle 10", "p": 5900, "w": 7200, "b": "readwell", "i": "book", "s": 112, "r": 4.7, "f": 1 },
+            { "t": "ReadWell Business Strategy Hardback", "p": 3450, "w": 4200, "b": "readwell", "i": "book", "s": 146, "r": 4.5, "f": 0 },
+            { "t": "ReadWell Cookbook Ceylon Flavours", "p": 2950, "w": null, "b": "readwell", "i": "book", "s": 168, "r": 4.6, "f": 0 },
+            { "t": "ReadWell Exam Practice Papers Grade 5", "p": 1850, "w": 2200, "b": "readwell", "i": "book", "s": 286, "r": 4.4, "f": 0 },
+            { "t": "ReadWell Journal Hardcover Dotted A5", "p": 1950, "w": 2450, "b": "readwell", "i": "pencil", "s": 224, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Stationery & Office",
+          "slug": "stationery-office",
+          "icon": "pencil",
+          "products": [
+            { "t": "InkPress Gel Pen Set 12 Colours Smooth", "p": 950, "w": 1250, "b": "inkpress", "i": "pencil", "s": 486, "r": 4.6, "f": 1 },
+            { "t": "InkPress A4 Copier Paper 80gsm 500 Sheets", "p": 1450, "w": 1750, "b": "inkpress", "i": "book", "s": 528, "r": 4.5, "f": 0 },
+            { "t": "InkPress Leather Look A5 Planner 2026", "p": 2450, "w": 2950, "b": "inkpress", "i": "book", "s": 184, "r": 4.4, "f": 0 },
+            { "t": "InkPress Heavy Duty Stapler with 5000 Staples", "p": 1850, "w": null, "b": "inkpress", "i": "wrench", "s": 162, "r": 4.3, "f": 0 },
+            { "t": "InkPress File Organiser Box Set of 5", "p": 1650, "w": 1950, "b": "inkpress", "i": "book", "s": 214, "r": 4.4, "f": 0 },
+            { "t": "InkPress Whiteboard Magnetic 90x60cm", "p": 6900, "w": 8500, "b": "inkpress", "i": "monitor", "s": 62, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pet Supplies",
+      "slug": "pet-supplies",
+      "icon": "paw",
+      "featured": false,
+      "tagline": "Food, care and play for pets",
+      "children": [
+        {
+          "name": "Dog & Cat",
+          "slug": "dog-cat",
+          "icon": "paw",
+          "products": [
+            { "t": "PawPal Premium Dry Dog Food 10kg Chicken", "p": 12500, "w": 14900, "b": "pawpal", "i": "paw", "s": 96, "r": 4.7, "f": 1 },
+            { "t": "PawPal Cat Litter Clumping 10L Odour Lock", "p": 2450, "w": 2950, "b": "pawpal", "i": "basket", "s": 248, "r": 4.5, "f": 0 },
+            { "t": "PawPal Wet Cat Food Pouches 12 Pack", "p": 3450, "w": 4200, "b": "pawpal", "i": "sachet", "s": 186, "r": 4.6, "f": 0 },
+            { "t": "PawPal Adjustable Dog Harness No Pull", "p": 2900, "w": 3500, "b": "pawpal", "i": "paw", "s": 164, "r": 4.6, "f": 0 },
+            { "t": "PawPal Pet Grooming Kit 5 Piece", "p": 3900, "w": null, "b": "pawpal", "i": "scissors", "s": 132, "r": 4.4, "f": 0 },
+            { "t": "PawPal Cat Scratching Post with Condo", "p": 8900, "w": 10900, "b": "pawpal", "i": "paw", "s": 48, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Fish & Bird",
+          "slug": "fish-bird",
+          "icon": "fish",
+          "products": [
+            { "t": "AquaPet Glass Aquarium 60L with Filter", "p": 24500, "w": 28900, "b": "aquapet", "i": "fish", "s": 21, "r": 4.6, "f": 1 },
+            { "t": "AquaPet Fish Food Flakes 100g", "p": 950, "w": 1200, "b": "aquapet", "i": "sachet", "s": 342, "r": 4.4, "f": 0 },
+            { "t": "AquaPet Aquarium LED Light Bar 60cm", "p": 5900, "w": 7200, "b": "aquapet", "i": "lamp", "s": 78, "r": 4.5, "f": 0 },
+            { "t": "AquaPet Bird Cage with Stand Medium", "p": 14500, "w": 16900, "b": "aquapet", "i": "birdhouse", "s": 32, "r": 4.5, "f": 0 },
+            { "t": "AquaPet Budgie Seed Mix 1kg", "p": 1150, "w": null, "b": "aquapet", "i": "grain", "s": 268, "r": 4.6, "f": 0 },
+            { "t": "AquaPet Water Filter Cartridges 6 Pack", "p": 2450, "w": 2950, "b": "aquapet", "i": "plug", "s": 148, "r": 4.4, "f": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

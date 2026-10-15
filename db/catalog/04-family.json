@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "name": "Baby & Kids",
+      "slug": "baby-kids",
+      "icon": "baby",
+      "featured": true,
+      "tagline": "Safe, tested, parent approved",
+      "children": [
+        {
+          "name": "Baby Gear",
+          "slug": "baby-gear",
+          "icon": "stroller",
+          "products": [
+            { "t": "TinyTots Convertible Baby Stroller with Bassinet", "p": 68500, "w": 79900, "b": "tinytots", "i": "stroller", "s": 24, "r": 4.7, "f": 1 },
+            { "t": "TinyTots Convertible Car Seat 0-36kg", "p": 54900, "w": 64900, "b": "tinytots", "i": "stroller", "s": 19, "r": 4.8, "f": 1 },
+            { "t": "TinyTots Baby Cot with Mattress", "p": 42500, "w": 49900, "b": "tinytots", "i": "bed", "s": 16, "r": 4.6, "f": 0 },
+            { "t": "TinyTots Baby Carrier Ergonomic 4-in-1", "p": 12900, "w": 15900, "b": "tinytots", "i": "baby", "s": 58, "r": 4.5, "f": 0 },
+            { "t": "TinyTots High Chair Adjustable Recline", "p": 24500, "w": 28900, "b": "tinytots", "i": "chair", "s": 31, "r": 4.4, "f": 0 },
+            { "t": "TinyTots Baby Monitor 4.3\" Video", "p": 28500, "w": 34500, "b": "tinytots", "i": "camera", "s": 27, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Diapers & Feeding",
+          "slug": "diapers-feeding",
+          "icon": "baby",
+          "products": [
+            { "t": "TinyTots Ultra Dry Diapers Size L 60 Pack", "p": 5900, "w": 7200, "b": "tinytots", "i": "sachet", "s": 268, "r": 4.7, "f": 1 },
+            { "t": "TinyTots Baby Wipes Fragrance Free 6 Pack", "p": 2450, "w": 2950, "b": "tinytots", "i": "sachet", "s": 384, "r": 4.6, "f": 0 },
+            { "t": "TinyTots Anti-Colic Feeding Bottles 3 Pack", "p": 4900, "w": 5900, "b": "tinytots", "i": "bottle", "s": 142, "r": 4.5, "f": 0 },
+            { "t": "TinyTots Electric Breast Pump Double", "p": 19500, "w": 24500, "b": "tinytots", "i": "bottle", "s": 34, "r": 4.6, "f": 0 },
+            { "t": "TinyTots Steriliser and Dryer 5 Bottle", "p": 24500, "w": 28900, "b": "tinytots", "i": "plug", "s": 22, "r": 4.5, "f": 0 },
+            { "t": "TinyTots Baby Food Maker Steamer Blender", "p": 18500, "w": null, "b": "tinytots", "i": "blender", "s": 29, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Kids Clothing",
+          "slug": "kids-clothing",
+          "icon": "shirt",
+          "products": [
+            { "t": "TinyTots Newborn Cotton Bodysuit 5 Pack", "p": 3450, "w": 4200, "b": "tinytots", "i": "shirt", "s": 224, "r": 4.7, "f": 1 },
+            { "t": "UrbanThread Kids School Uniform Shirt 2 Pack", "p": 2900, "w": null, "b": "urbanthread", "i": "shirt", "s": 312, "r": 4.4, "f": 0 },
+            { "t": "TinyTots Kids Pyjama Set Cotton 3 Pack", "p": 4500, "w": 5500, "b": "tinytots", "i": "shirt", "s": 178, "r": 4.5, "f": 0 },
+            { "t": "UrbanThread Kids Denim Dungaree", "p": 3900, "w": 4800, "b": "urbanthread", "i": "trousers", "s": 124, "r": 4.3, "f": 0 },
+            { "t": "TinyTots Toddler Raincoat Hooded", "p": 3200, "w": null, "b": "tinytots", "i": "jacket", "s": 146, "r": 4.4, "f": 0 },
+            { "t": "UrbanThread Kids Party Frock with Bow", "p": 5900, "w": 7200, "b": "urbanthread", "i": "dress", "s": 88, "r": 4.6, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toys & Games",
+      "slug": "toys-games",
+      "icon": "toy",
+      "featured": true,
+      "tagline": "Play, learn, imagine",
+      "children": [
+        {
+          "name": "Educational Toys",
+          "slug": "educational-toys",
+          "icon": "puzzle",
+          "products": [
+            { "t": "PlayWorld 1000 Piece Building Block Set", "p": 8900, "w": 11500, "b": "playworld", "i": "puzzle", "s": 132, "r": 4.8, "f": 1 },
+            { "t": "PlayWorld Wooden Alphabet Puzzle Board", "p": 3450, "w": 4200, "b": "playworld", "i": "puzzle", "s": 186, "r": 4.7, "f": 1 },
+            { "t": "FunBox STEM Robotics Starter Kit", "p": 15900, "w": 18900, "b": "funbox", "i": "puzzle", "s": 54, "r": 4.6, "f": 0 },
+            { "t": "FunBox Kids Microscope 1000x with Slides", "p": 11500, "w": 13900, "b": "funbox", "i": "puzzle", "s": 68, "r": 4.5, "f": 0 },
+            { "t": "PlayWorld Magnetic Tiles 100 Piece", "p": 12900, "w": 15900, "b": "playworld", "i": "puzzle", "s": 74, "r": 4.8, "f": 0 },
+            { "t": "FunBox Kids Telescope 70mm Tripod", "p": 13900, "w": null, "b": "funbox", "i": "puzzle", "s": 42, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Outdoor & Ride-On",
+          "slug": "outdoor-ride-on",
+          "icon": "bike",
+          "products": [
+            { "t": "PlayWorld Kids Bicycle 16\" with Training Wheels", "p": 18500, "w": 22500, "b": "playworld", "i": "bike", "s": 36, "r": 4.6, "f": 1 },
+            { "t": "PlayWorld Electric Ride-On Car 12V Remote", "p": 42500, "w": 49900, "b": "playworld", "i": "car", "s": 14, "r": 4.5, "f": 0 },
+            { "t": "PlayWorld Trampoline 8ft with Safety Net", "p": 34900, "w": 39900, "b": "playworld", "i": "ball", "s": 17, "r": 4.7, "f": 0 },
+            { "t": "PlayWorld Kids Scooter 3 Wheel LED", "p": 8900, "w": 10900, "b": "playworld", "i": "bike", "s": 82, "r": 4.5, "f": 0 },
+            { "t": "PlayWorld Inflatable Pool 3 Ring 2m", "p": 6900, "w": null, "b": "playworld", "i": "ball", "s": 96, "r": 4.3, "f": 0 },
+            { "t": "PlayWorld Kids Play Tent Castle", "p": 7900, "w": 9500, "b": "playworld", "i": "tent", "s": 63, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Plush & Dolls",
+          "slug": "plush-dolls",
+          "icon": "toy",
+          "products": [
+            { "t": "FunBox Giant Teddy Bear 90cm Soft Plush", "p": 9900, "w": 12500, "b": "funbox", "i": "toy", "s": 74, "r": 4.8, "f": 1 },
+            { "t": "FunBox Baby Doll with Accessories 12 Piece", "p": 5900, "w": 7200, "b": "funbox", "i": "baby", "s": 108, "r": 4.5, "f": 0 },
+            { "t": "PlayWorld Dinosaur Figurine Set 12 Piece", "p": 4500, "w": 5600, "b": "playworld", "i": "toy", "s": 156, "r": 4.6, "f": 0 },
+            { "t": "FunBox Plush Animal Assortment Bundle", "p": 3900, "w": null, "b": "funbox", "i": "paw", "s": 184, "r": 4.4, "f": 0 },
+            { "t": "PlayWorld Doll House Wooden 3 Storey", "p": 28500, "w": 33900, "b": "playworld", "i": "toy", "s": 19, "r": 4.7, "f": 0 },
+            { "t": "FunBox Remote Control Stunt Car 4WD", "p": 7900, "w": 9500, "b": "funbox", "i": "car", "s": 92, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Outdoors",
+      "slug": "sports-outdoors",
+      "icon": "dumbbell",
+      "featured": true,
+      "tagline": "Train, trek and play",
+      "children": [
+        {
+          "name": "Fitness Equipment",
+          "slug": "fitness-equipment",
+          "icon": "dumbbell",
+          "products": [
+            { "t": "PeakFit Adjustable Dumbbell Set 20kg Pair", "p": 24500, "w": 29900, "b": "peakfit", "i": "dumbbell", "s": 46, "r": 4.7, "f": 1 },
+            { "t": "PeakFit Yoga Mat 6mm Non-Slip TPE", "p": 4500, "w": 5600, "b": "peakfit", "i": "dumbbell", "s": 218, "r": 4.6, "f": 1 },
+            { "t": "PeakFit Treadmill Motorised 2.5HP Foldable", "p": 185000, "w": 219000, "b": "peakfit", "i": "dumbbell", "s": 11, "r": 4.6, "f": 0 },
+            { "t": "PeakFit Exercise Bike Magnetic Resistance", "p": 68500, "w": 79900, "b": "peakfit", "i": "bike", "s": 18, "r": 4.5, "f": 0 },
+            { "t": "PeakFit Kettlebell Cast Iron 12kg", "p": 8900, "w": 10900, "b": "peakfit", "i": "dumbbell", "s": 74, "r": 4.6, "f": 0 },
+            { "t": "PeakFit Resistance Band Set 11 Piece", "p": 3900, "w": 4800, "b": "peakfit", "i": "dumbbell", "s": 196, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Cricket & Team Sports",
+          "slug": "cricket-team-sports",
+          "icon": "ball",
+          "products": [
+            { "t": "StrideX English Willow Cricket Bat Grade 3", "p": 34500, "w": 39900, "b": "stridex", "i": "ball", "s": 32, "r": 4.7, "f": 1 },
+            { "t": "StrideX Cricket Kit Bag with Wheels", "p": 18500, "w": 22500, "b": "stridex", "i": "bag", "s": 41, "r": 4.5, "f": 0 },
+            { "t": "StrideX Batting Gloves Pro Comfort", "p": 6900, "w": 8500, "b": "stridex", "i": "ball", "s": 88, "r": 4.4, "f": 0 },
+            { "t": "StrideX Football Match Ball Size 5", "p": 4900, "w": 5900, "b": "stridex", "i": "ball", "s": 142, "r": 4.6, "f": 0 },
+            { "t": "StrideX Volleyball Soft Touch", "p": 3900, "w": null, "b": "stridex", "i": "ball", "s": 118, "r": 4.3, "f": 0 },
+            { "t": "StrideX Badminton Racket Set with Shuttlecocks", "p": 5900, "w": 7200, "b": "stridex", "i": "ball", "s": 96, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Camping & Hiking",
+          "slug": "camping-hiking",
+          "icon": "tent",
+          "products": [
+            { "t": "TrailPeak 4 Person Dome Tent Waterproof", "p": 28500, "w": 34900, "b": "trailpeak", "i": "tent", "s": 34, "r": 4.7, "f": 1 },
+            { "t": "TrailPeak Sleeping Bag -5C Envelope", "p": 12900, "w": 15900, "b": "trailpeak", "i": "tent", "s": 62, "r": 4.5, "f": 0 },
+            { "t": "TrailPeak 55L Hiking Backpack Rain Cover", "p": 18500, "w": 22500, "b": "trailpeak", "i": "bag", "s": 47, "r": 4.6, "f": 0 },
+            { "t": "TrailPeak Portable Camping Stove Gas", "p": 8900, "w": 10900, "b": "trailpeak", "i": "pot", "s": 84, "r": 4.5, "f": 0 },
+            { "t": "TrailPeak LED Camping Lantern Rechargeable", "p": 4900, "w": 5900, "b": "trailpeak", "i": "lamp", "s": 156, "r": 4.4, "f": 0 },
+            { "t": "TrailPeak Trekking Poles Aluminium Pair", "p": 7900, "w": null, "b": "trailpeak", "i": "tent", "s": 68, "r": 4.6, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health & Wellness",
+      "slug": "health-wellness",
+      "icon": "bottleCare",
+      "featured": false,
+      "tagline": "Monitor, supplement, recover",
+      "children": [
+        {
+          "name": "Health Monitors",
+          "slug": "health-monitors",
+          "icon": "bottleCare",
+          "products": [
+            { "t": "VitaCare Digital Blood Pressure Monitor", "p": 12900, "w": 15900, "b": "vitacare", "i": "plug", "s": 88, "r": 4.7, "f": 1 },
+            { "t": "VitaCare Blood Glucose Meter Kit 50 Strips", "p": 9900, "w": 11900, "b": "vitacare", "i": "plug", "s": 74, "r": 4.6, "f": 0 },
+            { "t": "VitaCare Pulse Oximeter Fingertip OLED", "p": 3900, "w": 4900, "b": "vitacare", "i": "plug", "s": 186, "r": 4.5, "f": 0 },
+            { "t": "VitaCare Digital Thermometer Infrared", "p": 4500, "w": null, "b": "vitacare", "i": "plug", "s": 142, "r": 4.4, "f": 0 },
+            { "t": "VitaCare Body Weight Scale Bluetooth", "p": 6900, "w": 8500, "b": "vitacare", "i": "plug", "s": 108, "r": 4.5, "f": 0 },
+            { "t": "VitaCare Massage Gun Percussion 6 Heads", "p": 18900, "w": 22900, "b": "vitacare", "i": "plug", "s": 56, "r": 4.7, "f": 0 }
+          ]
+        },
+        {
+          "name": "Vitamins & Supplements",
+          "slug": "vitamins-supplements",
+          "icon": "sachet",
+          "products": [
+            { "t": "VitaCare Vitamin D3 2000IU 90 Capsules", "p": 3450, "w": 4200, "b": "vitacare", "i": "sachet", "s": 264, "r": 4.7, "f": 1 },
+            { "t": "VitaCare Omega 3 Fish Oil 1000mg 60 Caps", "p": 4900, "w": 5900, "b": "vitacare", "i": "sachet", "s": 198, "r": 4.6, "f": 1 },
+            { "t": "GreenLeaf Multivitamin Complete 60 Tablets", "p": 3900, "w": 4800, "b": "greenleaf", "i": "sachet", "s": 224, "r": 4.5, "f": 0 },
+            { "t": "GreenLeaf Whey Protein Isolate 1kg Chocolate", "p": 18500, "w": 22500, "b": "greenleaf", "i": "bottle", "s": 86, "r": 4.7, "f": 0 },
+            { "t": "GreenLeaf Herbal Immunity Syrup 200ml", "p": 1950, "w": 2450, "b": "greenleaf", "i": "bottle", "s": 312, "r": 4.4, "f": 0 },
+            { "t": "VitaCare Probiotic 10 Billion CFU 30 Caps", "p": 5900, "w": null, "b": "vitacare", "i": "sachet", "s": 134, "r": 4.6, "f": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

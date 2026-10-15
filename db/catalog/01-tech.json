@@ -1,0 +1,231 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "slug": "electronics",
+      "icon": "monitor",
+      "featured": true,
+      "tagline": "Latest gadgets, certified quality",
+      "children": [
+        {
+          "name": "Televisions",
+          "slug": "televisions",
+          "icon": "tv",
+          "products": [
+            { "t": "Voltix 55\" 4K QLED Smart TV", "p": 289000, "w": 349000, "b": "voltix", "i": "tv", "s": 18, "r": 4.7, "f": 1 },
+            { "t": "Voltix 43\" Full HD LED TV", "p": 118500, "w": 139000, "b": "voltix", "i": "tv", "s": 34, "r": 4.5, "f": 0 },
+            { "t": "Lumex 32\" HD Ready Smart TV", "p": 74500, "w": 89900, "b": "lumex", "i": "tv", "s": 41, "r": 4.3, "f": 0 },
+            { "t": "Voltix 65\" OLED Cinema Display", "p": 649000, "w": 749000, "b": "voltix", "i": "tv", "s": 6, "r": 4.9, "f": 1 },
+            { "t": "Lumex Projector 1080p HomeBeam", "p": 96500, "w": null, "b": "lumex", "i": "tv", "s": 22, "r": 4.2, "f": 0 },
+            { "t": "Voltix Soundbar 220W with Subwoofer", "p": 58900, "w": 69900, "b": "voltix", "i": "speaker", "s": 27, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Cameras & Drones",
+          "slug": "cameras-drones",
+          "icon": "camera",
+          "products": [
+            { "t": "PixelForge A7 Mirrorless Camera Body", "p": 385000, "w": 429000, "b": "pixelforge", "i": "camera", "s": 9, "r": 4.8, "f": 1 },
+            { "t": "PixelForge 24-70mm f/2.8 Zoom Lens", "p": 219000, "w": null, "b": "pixelforge", "i": "camera", "s": 12, "r": 4.7, "f": 0 },
+            { "t": "Nimbus SkyLite 4K Camera Drone", "p": 178500, "w": 205000, "b": "nimbus", "i": "camera", "s": 15, "r": 4.6, "f": 1 },
+            { "t": "Nimbus Action Cam 5K Waterproof", "p": 64500, "w": 79900, "b": "nimbus", "i": "camera", "s": 38, "r": 4.4, "f": 0 },
+            { "t": "PixelForge Vlog Kit with Ring Light", "p": 42700, "w": 51000, "b": "pixelforge", "i": "camera", "s": 24, "r": 4.1, "f": 0 },
+            { "t": "Nimbus Gimbal Stabiliser Pro 3-Axis", "p": 79900, "w": null, "b": "nimbus", "i": "camera", "s": 11, "r": 4.5, "f": 0 }
+          ]
+        },
+        {
+          "name": "Smart Home",
+          "slug": "smart-home",
+          "icon": "bulb",
+          "products": [
+            { "t": "OrbiTech Smart Bulb Pack of 4 RGB", "p": 12900, "w": 16900, "b": "orbitech", "i": "bulb", "s": 76, "r": 4.5, "f": 1 },
+            { "t": "OrbiTech WiFi Smart Plug with Metering", "p": 6450, "w": 7900, "b": "orbitech", "i": "plug", "s": 120, "r": 4.4, "f": 0 },
+            { "t": "OrbiTech Video Doorbell 2K", "p": 34500, "w": 39900, "b": "orbitech", "i": "camera", "s": 29, "r": 4.6, "f": 0 },
+            { "t": "OrbiTech Robot Vacuum with Mop", "p": 124500, "w": 149000, "b": "orbitech", "i": "bulb", "s": 14, "r": 4.3, "f": 1 },
+            { "t": "OrbiTech Smart Door Lock Fingerprint", "p": 58900, "w": 68000, "b": "orbitech", "i": "bulb", "s": 21, "r": 4.4, "f": 0 },
+            { "t": "OrbiTech Air Purifier HEPA 13", "p": 87500, "w": 99500, "b": "orbitech", "i": "bulb", "s": 17, "r": 4.7, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mobiles & Tablets",
+      "slug": "mobiles-tablets",
+      "icon": "smartphone",
+      "featured": true,
+      "tagline": "Flagships and budget heroes",
+      "children": [
+        {
+          "name": "Smartphones",
+          "slug": "smartphones",
+          "icon": "smartphone",
+          "products": [
+            { "t": "Zentry Aurora 5G 256GB", "p": 189000, "w": 219000, "b": "zentry", "i": "smartphone", "s": 26, "r": 4.8, "f": 1 },
+            { "t": "Zentry Aurora Lite 128GB", "p": 98500, "w": 115000, "b": "zentry", "i": "smartphone", "s": 48, "r": 4.5, "f": 0 },
+            { "t": "Zentry Nova 4G 64GB Dual SIM", "p": 42500, "w": 49900, "b": "zentry", "i": "smartphone", "s": 96, "r": 4.2, "f": 0 },
+            { "t": "Voltix Edge Pro 512GB Titanium", "p": 329000, "w": 369000, "b": "voltix", "i": "smartphone", "s": 12, "r": 4.9, "f": 1 },
+            { "t": "Voltix Edge Neo 128GB", "p": 112000, "w": null, "b": "voltix", "i": "smartphone", "s": 39, "r": 4.4, "f": 0 },
+            { "t": "Zentry Fold Mini 5G 256GB", "p": 265000, "w": 298000, "b": "zentry", "i": "smartphone", "s": 8, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Tablets",
+          "slug": "tablets",
+          "icon": "tablet",
+          "products": [
+            { "t": "Zentry Tab Air 11\" 128GB WiFi", "p": 132000, "w": 149000, "b": "zentry", "i": "tablet", "s": 31, "r": 4.6, "f": 1 },
+            { "t": "Zentry Tab Kids 8\" 32GB", "p": 48900, "w": 55900, "b": "zentry", "i": "tablet", "s": 52, "r": 4.4, "f": 0 },
+            { "t": "Voltix Slate Pro 12.9\" 256GB + Pen", "p": 245000, "w": null, "b": "voltix", "i": "tablet", "s": 16, "r": 4.8, "f": 0 },
+            { "t": "Zentry Tab Lite 10\" 64GB", "p": 74500, "w": 84900, "b": "zentry", "i": "tablet", "s": 44, "r": 4.2, "f": 0 },
+            { "t": "Voltix Slate Keyboard Folio Case", "p": 21500, "w": null, "b": "voltix", "i": "keyboard", "s": 67, "r": 4.3, "f": 0 },
+            { "t": "Zentry E-Reader Paper 6\" 16GB", "p": 38900, "w": 44500, "b": "zentry", "i": "book", "s": 28, "r": 4.7, "f": 0 }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "slug": "mobile-accessories",
+          "icon": "plug",
+          "products": [
+            { "t": "Voltix 20000mAh Power Bank 65W PD", "p": 14500, "w": 17900, "b": "voltix", "i": "plug", "s": 134, "r": 4.6, "f": 1 },
+            { "t": "Voltix 65W GaN Dual Port Charger", "p": 9800, "w": 11900, "b": "voltix", "i": "plug", "s": 158, "r": 4.5, "f": 0 },
+            { "t": "OrbiTech Braided USB-C Cable 2m", "p": 2450, "w": null, "b": "orbitech", "i": "plug", "s": 420, "r": 4.4, "f": 0 },
+            { "t": "Voltix Wireless Charging Pad 15W", "p": 6900, "w": 8500, "b": "voltix", "i": "plug", "s": 96, "r": 4.2, "f": 0 },
+            { "t": "OrbiTech Car Mount Magnetic Vent", "p": 3200, "w": null, "b": "orbitech", "i": "car", "s": 210, "r": 4.3, "f": 0 },
+            { "t": "Voltix Tempered Glass Screen Guard", "p": 1450, "w": 1990, "b": "voltix", "i": "plug", "s": 500, "r": 4.1, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computers & Laptops",
+      "slug": "computers-laptops",
+      "icon": "laptop",
+      "featured": true,
+      "tagline": "Work, create, play",
+      "children": [
+        {
+          "name": "Laptops",
+          "slug": "laptops",
+          "icon": "laptop",
+          "products": [
+            { "t": "Voltix Book Pro 14\" M-Series 512GB", "p": 485000, "w": 539000, "b": "voltix", "i": "laptop", "s": 11, "r": 4.9, "f": 1 },
+            { "t": "Voltix Book Air 13\" 256GB", "p": 279000, "w": 299000, "b": "voltix", "i": "laptop", "s": 23, "r": 4.7, "f": 1 },
+            { "t": "Nimbus Studio 15\" Ryzen 7 16GB", "p": 318500, "w": 349000, "b": "nimbus", "i": "laptop", "s": 14, "r": 4.5, "f": 0 },
+            { "t": "Nimbus Everyday 14\" Core i5 8GB", "p": 168000, "w": 189000, "b": "nimbus", "i": "laptop", "s": 32, "r": 4.3, "f": 0 },
+            { "t": "PixelForge Creator 16\" RTX 32GB", "p": 689000, "w": null, "b": "pixelforge", "i": "laptop", "s": 7, "r": 4.8, "f": 0 },
+            { "t": "Nimbus Chromebook 11\" 64GB", "p": 89500, "w": 99500, "b": "nimbus", "i": "laptop", "s": 41, "r": 4.1, "f": 0 }
+          ]
+        },
+        {
+          "name": "Desktops & Monitors",
+          "slug": "desktops-monitors",
+          "icon": "monitor",
+          "products": [
+            { "t": "Voltix Vision 27\" 4K IPS Monitor", "p": 165000, "w": 189000, "b": "voltix", "i": "monitor", "s": 19, "r": 4.7, "f": 1 },
+            { "t": "Voltix Vision 24\" 165Hz Gaming Monitor", "p": 98500, "w": 112000, "b": "voltix", "i": "monitor", "s": 26, "r": 4.6, "f": 0 },
+            { "t": "Nimbus Tower Desktop Core i7 16GB", "p": 289000, "w": 325000, "b": "nimbus", "i": "monitor", "s": 9, "r": 4.4, "f": 0 },
+            { "t": "Voltix All-in-One 23.8\" 512GB SSD", "p": 232000, "w": null, "b": "voltix", "i": "monitor", "s": 13, "r": 4.5, "f": 0 },
+            { "t": "PixelForge Ultrawide 34\" Curved QHD", "p": 268000, "w": 298000, "b": "pixelforge", "i": "monitor", "s": 8, "r": 4.8, "f": 0 },
+            { "t": "Voltix Dual Monitor Desk Arm", "p": 18900, "w": 22500, "b": "voltix", "i": "monitor", "s": 54, "r": 4.3, "f": 0 }
+          ]
+        },
+        {
+          "name": "Components & Storage",
+          "slug": "components-storage",
+          "icon": "keyboard",
+          "products": [
+            { "t": "Nimbus 1TB NVMe Gen4 SSD", "p": 34500, "w": 39900, "b": "nimbus", "i": "keyboard", "s": 88, "r": 4.8, "f": 1 },
+            { "t": "Nimbus 2TB Portable SSD USB-C", "p": 58900, "w": 66500, "b": "nimbus", "i": "keyboard", "s": 42, "r": 4.7, "f": 0 },
+            { "t": "Voltix Mechanical Keyboard RGB TKL", "p": 24500, "w": 28900, "b": "voltix", "i": "keyboard", "s": 63, "r": 4.6, "f": 0 },
+            { "t": "Voltix Wireless Mouse Silent 2.4G", "p": 5900, "w": 7200, "b": "voltix", "i": "mouse", "s": 176, "r": 4.4, "f": 0 },
+            { "t": "Nimbus 16GB DDR4 RAM Kit 3200MHz", "p": 27900, "w": null, "b": "nimbus", "i": "keyboard", "s": 47, "r": 4.5, "f": 0 },
+            { "t": "Voltix Laser Printer Duplex WiFi", "p": 76500, "w": 87900, "b": "voltix", "i": "printer", "s": 18, "r": 4.4, "f": 0 }
+          ]
+        },
+        {
+          "name": "Networking",
+          "slug": "networking",
+          "icon": "router",
+          "products": [
+            { "t": "OrbiTech Mesh WiFi 6 Router 3-Pack", "p": 68900, "w": 79900, "b": "orbitech", "i": "router", "s": 24, "r": 4.7, "f": 1 },
+            { "t": "OrbiTech Dual Band Router AX3000", "p": 32500, "w": 37900, "b": "orbitech", "i": "router", "s": 51, "r": 4.5, "f": 0 },
+            { "t": "OrbiTech 4G LTE Home Router", "p": 28900, "w": null, "b": "orbitech", "i": "router", "s": 37, "r": 4.3, "f": 0 },
+            { "t": "OrbiTech 8-Port Gigabit Switch", "p": 14500, "w": 16900, "b": "orbitech", "i": "router", "s": 62, "r": 4.6, "f": 0 },
+            { "t": "OrbiTech WiFi Range Extender AC1200", "p": 12900, "w": null, "b": "orbitech", "i": "router", "s": 74, "r": 4.2, "f": 0 },
+            { "t": "OrbiTech Cat6 Patch Cable 10m", "p": 2900, "w": null, "b": "orbitech", "i": "router", "s": 240, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Audio & Headphones",
+      "slug": "audio-headphones",
+      "icon": "headphone",
+      "featured": true,
+      "tagline": "Sound that moves you",
+      "children": [
+        {
+          "name": "Headphones",
+          "slug": "headphones",
+          "icon": "headphone",
+          "products": [
+            { "t": "Kaizen Audio Studio Pro Wireless Headphones", "p": 42500, "w": 59900, "b": "kaizen-audio", "i": "headphone", "s": 42, "r": 4.8, "f": 1 },
+            { "t": "Kaizen Audio Quiet ANC Over-Ear Headphones", "p": 58900, "w": 69900, "b": "kaizen-audio", "i": "headphone", "s": 27, "r": 4.7, "f": 1 },
+            { "t": "Kaizen Audio Air Buds True Wireless", "p": 18500, "w": 24500, "b": "kaizen-audio", "i": "headphone", "s": 118, "r": 4.5, "f": 0 },
+            { "t": "Kaizen Audio Sport Buds IPX7", "p": 12900, "w": 15900, "b": "kaizen-audio", "i": "headphone", "s": 96, "r": 4.4, "f": 0 },
+            { "t": "Kaizen Audio Open-Ear Clip Headphones", "p": 22400, "w": null, "b": "kaizen-audio", "i": "headphone", "s": 44, "r": 4.3, "f": 0 },
+            { "t": "Kaizen Audio Wired Studio Monitors", "p": 34900, "w": 39900, "b": "kaizen-audio", "i": "headphone", "s": 21, "r": 4.6, "f": 0 }
+          ]
+        },
+        {
+          "name": "Speakers",
+          "slug": "speakers",
+          "icon": "speaker",
+          "products": [
+            { "t": "Kaizen Audio BoomBox Portable Bluetooth Speaker", "p": 24500, "w": 29900, "b": "kaizen-audio", "i": "speaker", "s": 57, "r": 4.6, "f": 1 },
+            { "t": "Kaizen Audio Party Tower 400W", "p": 89500, "w": 105000, "b": "kaizen-audio", "i": "speaker", "s": 16, "r": 4.5, "f": 0 },
+            { "t": "Kaizen Audio Mini Cube Speaker IPX6", "p": 8900, "w": 11500, "b": "kaizen-audio", "i": "speaker", "s": 148, "r": 4.3, "f": 0 },
+            { "t": "Kaizen Audio Home Theatre 5.1 System", "p": 189000, "w": 219000, "b": "kaizen-audio", "i": "speaker", "s": 9, "r": 4.8, "f": 0 },
+            { "t": "Kaizen Audio Karaoke Speaker with Mics", "p": 64900, "w": 74900, "b": "kaizen-audio", "i": "speaker", "s": 23, "r": 4.4, "f": 0 },
+            { "t": "Kaizen Audio Studio Condenser Microphone", "p": 28900, "w": null, "b": "kaizen-audio", "i": "speaker", "s": 31, "r": 4.7, "f": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "icon": "puzzle",
+      "featured": false,
+      "tagline": "Consoles, controllers, chairs",
+      "children": [
+        {
+          "name": "Consoles & Controllers",
+          "slug": "consoles-controllers",
+          "icon": "puzzle",
+          "products": [
+            { "t": "Zentry Play Console 1TB Disc Edition", "p": 219000, "w": 245000, "b": "zentry", "i": "puzzle", "s": 13, "r": 4.9, "f": 1 },
+            { "t": "Zentry Wireless Pro Controller", "p": 24500, "w": 28900, "b": "zentry", "i": "puzzle", "s": 68, "r": 4.6, "f": 0 },
+            { "t": "Zentry Handheld Gaming Console OLED", "p": 165000, "w": null, "b": "zentry", "i": "puzzle", "s": 11, "r": 4.8, "f": 1 },
+            { "t": "Zentry Racing Wheel with Pedals", "p": 78900, "w": 89900, "b": "zentry", "i": "wheel", "s": 14, "r": 4.5, "f": 0 },
+            { "t": "Zentry Gaming Headset 7.1 Surround", "p": 18500, "w": 22500, "b": "zentry", "i": "headphone", "s": 82, "r": 4.4, "f": 0 },
+            { "t": "Zentry Flight Stick Pro Simulator", "p": 42900, "w": null, "b": "zentry", "i": "puzzle", "s": 12, "r": 4.3, "f": 0 }
+          ]
+        },
+        {
+          "name": "Gaming Setup",
+          "slug": "gaming-setup",
+          "icon": "chair",
+          "products": [
+            { "t": "Nimbus Gaming Chair Recliner with Lumbar", "p": 68900, "w": 82000, "b": "nimbus", "i": "chair", "s": 19, "r": 4.5, "f": 1 },
+            { "t": "Nimbus RGB Gaming Desk 140cm", "p": 52900, "w": 62000, "b": "nimbus", "i": "sofa", "s": 15, "r": 4.4, "f": 0 },
+            { "t": "Voltix Gaming Mouse 26000 DPI", "p": 14900, "w": 17900, "b": "voltix", "i": "mouse", "s": 77, "r": 4.7, "f": 0 },
+            { "t": "Voltix RGB Mouse Pad XXL", "p": 5900, "w": 7400, "b": "voltix", "i": "keyboard", "s": 130, "r": 4.3, "f": 0 },
+            { "t": "Nimbus Streaming Light Ring Kit", "p": 16500, "w": null, "b": "nimbus", "i": "lamp", "s": 44, "r": 4.2, "f": 0 },
+            { "t": "Zentry Game Capture Card 4K60", "p": 34900, "w": 39900, "b": "zentry", "i": "puzzle", "s": 18, "r": 4.5, "f": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}
